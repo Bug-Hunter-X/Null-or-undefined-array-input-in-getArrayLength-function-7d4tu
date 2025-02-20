@@ -1,0 +1,1 @@
+function getArrayLength(arr) {  return arr.length; //Error: If arr is null or undefined, this will cause an error.}
