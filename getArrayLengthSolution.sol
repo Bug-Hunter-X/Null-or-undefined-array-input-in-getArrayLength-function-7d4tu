@@ -1,0 +1,1 @@
+function getArrayLength(arr) {  if (arr == null || arr.length == 0) {    return 0; // Handle null or empty arrays  }  return arr.length;} 
