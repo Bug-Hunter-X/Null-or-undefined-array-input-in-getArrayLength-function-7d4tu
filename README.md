@@ -1,0 +1,1 @@
+This repository contains a Solidity code example demonstrating a common error when working with arrays: accessing the length of a null or undefined array. The bug and its solution are provided to illustrate how to prevent unexpected errors.  The solution uses a check to handle null and undefined values before accessing array properties.
